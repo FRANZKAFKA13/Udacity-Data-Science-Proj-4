@@ -1,0 +1,6 @@
+You can use the following link to access the public dataset:
+
+Full Sparkify Dataset: s3n://udacity-dsnd/sparkify/sparkify_event_data.json
+You can also use the link below to access the mini 123MB dataset:
+
+Mini Sparkify Dataset: s3n://udacity-dsnd/sparkify/mini_sparkify_event_data.json
